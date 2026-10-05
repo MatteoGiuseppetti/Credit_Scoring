@@ -1,0 +1,13 @@
+# Python 3.11; XGBoost version recorded in the notebook.
+# Other dependencies are not a lockfile of the original environment.
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xgboost==3.2.0
+shap
+jupyterlab
+ipykernel
